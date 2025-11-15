@@ -2,7 +2,7 @@ import React from "react";
 
 // Rasm fayllarini import qilamiz
 import link1 from "../assets/img/link1.png";
-import link2 from "../assets/img/link.png";
+import link2 from "../assets/img/Link.png";
 import container from "../assets/img/Container.png";
 
 const Showcase1 = () => {
