@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+.container1{
+    max-width: 1400px;
+    width: 98%;
+    box-sizing: border-box;
+}
+.container2{
+    max-width: 1700px;
+    width: 100%;
+    box-sizing: border-box;
+}
